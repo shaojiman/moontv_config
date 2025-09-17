@@ -21,7 +21,7 @@ jobs:
     - name: Install dependencies
       run: pip install -r requirements.txt
     - name: Debug Token
-      run: echo "GH_TOKEN is $GH_TOKEN"
+      run: echo "GH_TOKEN is $GH_TOKENN"
       env:
         GH_TOKEN: ${{ secrets.GH_TOKENN }}
     - name: Run script
