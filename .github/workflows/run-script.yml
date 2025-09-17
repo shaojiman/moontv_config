@@ -35,7 +35,7 @@ jobs:
 
     - name: Commit and Push Results
       run: |
-        git add output.json failed_apis.log github_sources.log
+        git add input.json output_base58.txt failed_apis.log github_sources.log
         git commit -m "🔄 自动更新 output.json 和日志文件"
         git push
       env:

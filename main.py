@@ -7,7 +7,8 @@ import time
 from datetime import datetime
 from aiohttp import ClientTimeout
 import os
-
+import base58
+import shutil
 # 配置项
 INPUT_FILE = 'input.json'
 OUTPUT_FILE = 'output.json'
@@ -49,6 +50,25 @@ DEFAULT_CATEGORIES = [
     { "name": "综艺", "type": "tv", "query": "综艺" },
     { "name": "纪录片", "type": "tv", "query": "纪录片" }
 ]
+def replace_input_with_output():
+    try:
+        shutil.copyfile(OUTPUT_FILE, INPUT_FILE)
+        print("✅ input.json 已被 output.json 替换")
+    except Exception as e:
+        print(f"❌ 替换 input.json 失败: {e}")
+
+# ✅ 步骤 2：将 output.json 内容进行 Base58 编码并输出
+def encode_output_base58():
+    try:
+        with open(OUTPUT_FILE, 'r', encoding='utf-8') as f:
+            raw_data = f.read()
+        encoded = base58.b58encode(raw_data.encode('utf-8')).decode('utf-8')
+
+        with open('output_base58.txt', 'w', encoding='utf-8') as f:
+            f.write(encoded)
+        print("✅ output.json 已编码为 Base58 并保存为 output_base58.txt")
+    except Exception as e:
+        print(f"❌ Base58 编码失败: {e}")
 def validate_token(token):
     try:
         r = requests.get("https://api.github.com/user", headers={"Authorization": f"token {token}"})
@@ -236,7 +256,8 @@ async def main():
     print(f"📄 错误日志已保存到 {FAILED_LOG_FILE}")
     print(f"📄 GitHub 日志已保存到 {GITHUB_LOG_FILE}")
     print(f"💾 输出文件已保存为 {OUTPUT_FILE}")
-
+    replace_input_with_output()
+    encode_output_base58()
 # 运行
 if __name__ == '__main__':
     asyncio.run(main())
