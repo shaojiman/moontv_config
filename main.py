@@ -15,7 +15,7 @@ FAILED_LOG_FILE = 'failed_apis.log'
 GITHUB_LOG_FILE = 'github_sources.log'
 MAX_GITHUB_RESULTS = 2000
 MAX_RETRIES = 3
-GITHUB_TOKEN = os.getenv("GH_TOKEN")
+GITHUB_TOKEN = os.getenv("GH_TOKEN", "")
 
 SENSITIVE_KEYWORDS = [
     "内射", "中出", "强奸", "调教", "乱伦", "sm", "黑料", "母狗", "精液", "无码", "有码"]
@@ -49,6 +49,16 @@ DEFAULT_CATEGORIES = [
     { "name": "综艺", "type": "tv", "query": "综艺" },
     { "name": "纪录片", "type": "tv", "query": "纪录片" }
 ]
+def validate_token(token):
+    try:
+        r = requests.get("https://api.github.com/user", headers={"Authorization": f"token {token}"})
+        if r.status_code == 200:
+            print("✅ GitHub Token 验证成功")
+        else:
+            print(f"❌ Token 验证失败: {r.status_code} - {r.text}")
+    except Exception as e:
+        print(f"❌ Token 请求异常: {e}")
+validate_token(GITHUB_TOKEN)
 # 日志函数
 def log_failed(api_url, reason):
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
