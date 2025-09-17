@@ -1,4 +1,3 @@
 aiohttp
 requests
 base58
-shutil
