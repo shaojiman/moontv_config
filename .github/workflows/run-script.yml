@@ -24,7 +24,7 @@ jobs:
     - name: Run script
       run: python main.py
       env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKENN }}
  
     - name: Upload output.json
       uses: actions/upload-artifact@v4

@@ -15,7 +15,7 @@ FAILED_LOG_FILE = 'failed_apis.log'
 GITHUB_LOG_FILE = 'github_sources.log'
 MAX_GITHUB_RESULTS = 2000
 MAX_RETRIES = 3
-GITHUB_TOKEN = os.getenv("GH_TOKEN")
+GITHUB_TOKEN = os.getenv("GH_TOKENN")
 
 SENSITIVE_KEYWORDS = [
     "内射", "中出", "强奸", "调教", "乱伦", "sm", "黑料", "母狗", "精液", "无码", "有码"]
