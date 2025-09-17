@@ -3,7 +3,7 @@ name: Run API Aggregator
 on:
   schedule:
     - cron: '0 0 * * *'  # 每天凌晨 00:00 UTC 运行
-  workflow_dispatch:     # 允许手动触发
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -12,6 +12,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # 获取完整历史，避免 push 报错
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -25,9 +27,16 @@ jobs:
       run: python main.py
       env:
         GH_TOKEN: ${{ secrets.GH_TOKENN }}
- 
-    - name: Upload output.json
-      uses: actions/upload-artifact@v4
-      with:
-        name: output-json
-        path: output.json
+
+    - name: Configure Git
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+    - name: Commit and Push Results
+      run: |
+        git add output.json failed_apis.log github_sources.log
+        git commit -m "🔄 自动更新 output.json 和日志文件"
+        git push
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
