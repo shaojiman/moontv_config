@@ -23,7 +23,9 @@ jobs:
 
     - name: Run script
       run: python main.py
-
+      env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
     - name: Upload output.json
       uses: actions/upload-artifact@v3
       with:
