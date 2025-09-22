@@ -449,6 +449,20 @@
       "name": "TV-卧龙资源",
       "api": "https://collect.wolongzy.cc/api.php/provide/vod",
       "detail": ""
+    },
+    "93": {
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "name": "TV-如意资源",
+      "detail": "https://www.ryzyw.com",
+      "is_adult": false
+    },
+    "94": {
+      "api": "https://api.yjys.me/api.php/provide/vod/",
+      "name": "影剧影视"
+    },
+    "95": {
+      "api": "http://kankanzy.com/api.php/provide/vod",
+      "name": "看看资源"
     }
   },
   "custom_category": [
