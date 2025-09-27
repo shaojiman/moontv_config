@@ -460,33 +460,39 @@
       "detail": ""
     },
     "96": {
-      "api": "http://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
-    },
-    "97": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    "98": {
+    "97": {
       "name": "TV-U酷资源",
       "api": "https://api.ukuapi.com/api.php/provide/vod",
       "detail": "https://api.ukuapi.com",
       "is_adult": false
     },
-    "99": {
+    "98": {
       "name": "雨哥哥资源",
       "api": "http://cj.baozi66.top:66/api.php/provide/vod",
       "detail": "http://cj.baozi66.top:66"
     },
-    "100": {
+    "99": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
     },
-    "101": {
+    "100": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
       "name": "猫眼资源",
       "detail": "https://api.maoyanapi.top",
       "is_adult": false
+    },
+    "101": {
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "name": "淘片",
+      "detail": "https://www.taopianzy.com/index.html"
+    },
+    "102": {
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+      "name": "淘片网",
+      "detail": ""
     }
   },
   "custom_category": [
