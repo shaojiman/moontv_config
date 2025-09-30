@@ -448,61 +448,49 @@
       "is_adult": false
     },
     "93": {
-      "name": "雨哥哥资源",
-      "api": "http://cj.baozi66.top:66/api.php/provide/vod",
-      "detail": "http://cj.baozi66.top:66"
-    },
-    "94": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
     },
-    "95": {
+    "94": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
       "name": "猫眼资源",
       "detail": "https://api.maoyanapi.top",
       "is_adult": false
     },
-    "96": {
+    "95": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
     },
-    "97": {
+    "96": {
       "name": "TV-卧龙资源1",
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
       "detail": "https://collect.wolongzyw.com",
       "is_adult": false
     },
-    "98": {
+    "97": {
       "api": "https://dh.ha.cn/api.php/provide/vod",
       "name": "瀑布盘|点播",
       "detail": "www.pbpan.com"
     },
-    "99": {
+    "98": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
-    "100": {
+    "99": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "TV-如意资源",
       "detail": "https://www.ryzyw.com",
       "is_adult": false
     },
-    "101": {
+    "100": {
       "name": "U酷资源网",
       "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
       "detail": ""
     },
-    "102": {
-      "name": "天涯影视资源网采集接口",
-      "api": "https://tyyszyapi.com/api.php/provide/vod"
-    },
-    "103": {
-      "api": "http://kankanzy.com/api.php/provide/vod",
-      "name": "看看资源"
-    },
-    "104": {
-      "api": "https://tyyszyapi.com/api.php/provide/vod/",
-      "name": "天涯影视"
+    "101": {
+      "name": "色南国",
+      "api": "https://api.sexnguon.com/api.php/provide/vod",
+      "detail": "https://api.sexnguon.com"
     }
   },
   "custom_category": [
