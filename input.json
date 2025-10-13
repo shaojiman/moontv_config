@@ -476,14 +476,71 @@
       "detail": "yzzy.tv"
     },
     "99": {
-      "name": "色南国",
-      "api": "https://api.sexnguon.com/api.php/provide/vod",
-      "detail": "https://api.sexnguon.com"
-    },
-    "100": {
       "api": "https://maoyanzy.com/api.php/provide/vod",
       "name": "猫眼资源",
       "detail": "",
+      "is_adult": false
+    },
+    "100": {
+      "name": "🎬量子影视",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "detail": "https://lzizy.net"
+    },
+    "101": {
+      "name": "🎬量子资源",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "detail": "https://cj.lzcaiji.com"
+    },
+    "102": {
+      "name": "🎬卧龙资源1",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "detail": "https://collect.wolongzyw.com"
+    },
+    "103": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "影视工厂"
+    },
+    "104": {
+      "name": "雨哥哥资源",
+      "api": "http://cj.baozi66.top:66/api.php/provide/vod",
+      "detail": "http://cj.baozi66.top:66"
+    },
+    "105": {
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "name": "淘片",
+      "detail": "https://www.taopianzy.com/index.html"
+    },
+    "106": {
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "name": "卧龙资源1",
+      "detail": "",
+      "is_adult": false
+    },
+    "107": {
+      "api": "http://www.feifei67.com/api.php/provide/vod",
+      "name": "🔞成人22",
+      "detail": "",
+      "is_adult": true
+    },
+    "108": {
+      "api": "https://zy.hls.one/api.php/provide/vod",
+      "name": "🔞虾米资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "109": {
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+      "name": "淘片网",
+      "detail": ""
+    },
+    "110": {
+      "api": "http://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源",
+      "detail": ""
+    },
+    "111": {
+      "api": "https://vod.korge.cn/kapi.php/provide/vod/",
+      "name": "聚合资源",
       "is_adult": false
     }
   },
