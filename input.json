@@ -506,9 +506,49 @@
       "is_adult": true
     },
     "104": {
-      "api": "https://dh.ha.cn/api.php/provide/vod",
-      "name": "瀑布盘|点播",
-      "detail": "www.pbpan.com"
+      "name": "🎬爱奇艺",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "detail": "https://iqiyizyapi.com"
+    },
+    "105": {
+      "name": "🎬卧龙资源",
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "detail": "https://wolongzyw.com"
+    },
+    "106": {
+      "name": "🎬量子影视",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "detail": "https://lzizy.net"
+    },
+    "107": {
+      "name": "🎬量子资源",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "detail": "https://cj.lzcaiji.com"
+    },
+    "108": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "影视工厂"
+    },
+    "109": {
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "name": "淘片",
+      "detail": "https://www.taopianzy.com/index.html"
+    },
+    "110": {
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "name": "卧龙资源1",
+      "detail": "",
+      "is_adult": false
+    },
+    "111": {
+      "api": "http://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源",
+      "detail": ""
+    },
+    "112": {
+      "api": "https://vod.korge.cn/kapi.php/provide/vod/",
+      "name": "聚合资源",
+      "is_adult": false
     }
   },
   "custom_category": [
@@ -653,11 +693,6 @@
       "query": "纪录片"
     },
     {
-      "name": "治愈",
-      "type": "movie",
-      "query": "治愈"
-    },
-    {
       "name": "奇幻",
       "type": "movie",
       "query": "奇幻"
@@ -691,6 +726,11 @@
       "name": "纪录",
       "type": "tv",
       "query": "纪录片"
+    },
+    {
+      "name": "治愈",
+      "type": "movie",
+      "query": "治愈"
     }
   ]
 }
