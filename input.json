@@ -530,6 +530,11 @@
     "109": {
       "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
       "name": "TV-魔都动漫"
+    },
+    "110": {
+      "name": "色南国",
+      "api": "https://api.sexnguon.com/api.php/provide/vod",
+      "detail": "https://api.sexnguon.com"
     }
   },
   "custom_category": [
