@@ -507,74 +507,64 @@
       "is_adult": true
     },
     "104": {
-      "name": "🎬如意资源",
-      "api": "https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": "https://www.ryzyw.com"
-    },
-    "105": {
-      "name": "🎬魔爪资源",
-      "api": "https://jjpz.hafrey.dpdns.org/?url=https://mozhuazy.com/api.php/provide/vod",
-      "detail": "https://mozhuazy.com"
-    },
-    "106": {
-      "name": "🎬U酷资源",
-      "api": "https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi.com/api.php/provide/vod",
-      "detail": "https://api.ukuapi.com"
-    },
-    "107": {
-      "name": "🎬U酷88",
-      "api": "https://jjpz.hafrey.dpdns.org/?url=https://api.ukuapi88.com/api.php/provide/vod",
-      "detail": "https://api.ukuapi88.com"
-    },
-    "108": {
-      "name": "🎬卧龙资源",
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "detail": "https://wolongzyw.com"
-    },
-    "109": {
-      "name": "🎬卧龙资源1",
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-      "detail": "https://collect.wolongzyw.com"
-    },
-    "110": {
       "name": "🎬旺旺短剧",
       "api": "https://wwzy.tv/api.php/provide/vod",
       "detail": "https://wwzy.tv"
     },
-    "111": {
+    "105": {
       "api": "https://www.qiqidys.com/api.php/provide/vod/",
       "name": "七七影视"
     },
-    "112": {
+    "106": {
       "api": "https://collect.wolongzy.cc/api.php/provide/vod",
       "name": "TV-卧龙资源",
       "detail": ""
     },
-    "113": {
+    "107": {
       "api": "http://us.199301.xyz:4000",
       "name": "香蕉"
     },
-    "114": {
+    "108": {
       "api": "https://vod.199301.xyz",
       "name": "test2"
     },
-    "115": {
+    "109": {
       "api": "http://zmcj88.com/api?ac=list",
       "name": "🔞泡芙资源",
       "detail": "",
       "is_adult": true
     },
-    "116": {
+    "110": {
       "api": "http://jcspcj8.com/api?ac=list",
       "name": "🔞熊猫资源",
       "detail": "",
       "is_adult": true
     },
-    "117": {
+    "111": {
       "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
       "name": "🔞小美眉",
       "detail": "",
       "is_adult": true
+    },
+    "112": {
+      "name": "色南国",
+      "api": "https://api.sexnguon.com/api.php/provide/vod",
+      "detail": "https://api.sexnguon.com"
+    },
+    "113": {
+      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "name": "非凡影视",
+      "detail": "http://ffzy5.tv"
+    },
+    "114": {
+      "name": "淘片资源网",
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+      "detail": ""
+    },
+    "115": {
+      "name": "百万资源（新版）",
+      "api": "https://api.baiwanapi.com/api.php/provide/vod",
+      "detail": "https://api.baiwanapi.com"
     }
   },
   "custom_category": [
