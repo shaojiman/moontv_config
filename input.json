@@ -482,58 +482,44 @@
       "is_adult": true
     },
     "99": {
-      "api": "http://zmcj88.com/api?ac=list",
-      "name": "🔞泡芙资源",
-      "detail": "",
-      "is_adult": true
-    },
-    "100": {
       "name": "淘片资源网",
       "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
       "detail": ""
     },
-    "101": {
-      "api": "https://api.sexnguon.com/api.php/provide/vod",
-      "name": "AV-色嗨国",
-      "detail": "https://api.sexnguon.com"
-    },
-    "102": {
-      "api": "https://apilj.com/api.php/provide",
-      "name": "辣椒资源黄黄"
-    },
-    "103": {
+    "100": {
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "name": "淘片",
       "detail": "https://www.taopianzy.com/index.html"
     },
-    "104": {
+    "101": {
       "api": "http://jcspcj8.com/api?ac=list",
       "name": "🔞熊猫资源",
       "detail": "",
       "is_adult": true
     },
-    "105": {
+    "102": {
       "name": "TV-丫丫点播",
       "api": "https://cj2.yayazy.net/api.php/provide/vod",
       "detail": "https://yayazy.net"
     },
-    "106": {
+    "103": {
       "api": "https://xingba222.com/api.php/provide",
       "name": "杏吧资源",
       "detail": "https://sex8zy8.com"
     },
-    "107": {
+    "104": {
       "api": "https://subocj.com/api.php/provide/vod",
       "name": "速播资源"
     },
-    "108": {
-      "api": "https://vod.199301.xyz",
-      "name": "test2"
-    },
-    "109": {
+    "105": {
       "api": "https://dh.ha.cn/api.php/provide/vod",
       "name": "瀑布盘|点播",
       "detail": "www.pbpan.com"
+    },
+    "106": {
+      "name": "🎬豆瓣资源",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "detail": "dbzy.tv"
     }
   },
   "custom_category": [
@@ -678,34 +664,19 @@
       "query": "纪录片"
     },
     {
-      "name": "犯罪",
-      "type": "movie",
-      "query": "犯罪"
-    },
-    {
-      "name": "战争",
-      "type": "movie",
-      "query": "战争"
-    },
-    {
-      "name": "西部",
-      "type": "movie",
-      "query": "西部"
-    },
-    {
       "name": "治愈",
       "type": "movie",
       "query": "治愈"
     },
     {
-      "name": "动漫",
-      "type": "tv",
-      "query": "日本动画"
-    },
-    {
       "name": "奇幻",
       "type": "movie",
       "query": "奇幻"
+    },
+    {
+      "name": "犯罪",
+      "type": "movie",
+      "query": "犯罪"
     },
     {
       "name": "惊悚",
@@ -716,6 +687,11 @@
       "name": "灾难",
       "type": "movie",
       "query": "灾难"
+    },
+    {
+      "name": "战争",
+      "type": "movie",
+      "query": "战争"
     },
     {
       "name": "国产",
