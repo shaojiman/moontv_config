@@ -476,99 +476,109 @@
       "detail": "https://xinlangapi.com"
     },
     "101": {
-      "name": "🎬速播资源",
-      "api": "https://subocaiji.com/api.php/provide/vod",
-      "detail": "www.subozy.com"
-    },
-    "102": {
-      "name": "🎬金鹰点播",
-      "api": "https://jinyingzy.com/api.php/provide/vod",
-      "detail": "https://jinyingzy.com"
-    },
-    "103": {
       "name": "🎬金鹰资源",
       "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "detail": "https://jinyingzy.net"
     },
-    "104": {
+    "102": {
       "name": "🔞 CK-资源",
       "api": "https://ckzy.me/api.php/provide/vod",
       "detail": "https://ckzy.me"
     },
-    "105": {
+    "103": {
       "api": "https://www.hongniuzy3.com/api.php/provide/vod",
       "name": "红牛资源"
     },
-    "106": {
-      "api": "https://xingba222.com/api.php/provide",
-      "name": "杏吧资源",
-      "detail": "https://sex8zy8.com"
-    },
-    "107": {
+    "104": {
       "name": "TV-新浪资源",
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "detail": "http://api.xinlangapi.com"
     },
-    "108": {
+    "105": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
       "name": "新浪",
       "detail": "https://api.xinlangapi.com"
     },
-    "109": {
+    "106": {
       "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
       "name": "CK资源",
       "detail": "https://www.ckzy1.com",
       "adult": true
     },
-    "110": {
-      "api": "https://jinyingzy.com/api.php/provide/vod/",
-      "name": "金鹰|点播"
-    },
-    "111": {
-      "api": "https://subocaiji.com/api.php/provide/vod/",
-      "name": "速博|点播"
-    },
-    "112": {
+    "107": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "name": "新浪|点播"
     },
-    "113": {
+    "108": {
       "name": "虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "detail": "https://www.huyaapi.com"
     },
-    "114": {
+    "109": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
     },
-    "115": {
+    "110": {
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "name": "虎牙",
       "detail": "https://www.huyaapi.com"
     },
-    "116": {
-      "name": "🎬卧龙资源",
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "detail": "https://wolongzyw.com"
-    },
-    "117": {
-      "name": "🎬如意资源",
-      "api": "https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": "https://www.ryzyw.com"
-    },
-    "118": {
+    "111": {
       "name": "TV-金鹰资源",
       "api": "https://jyzyapi.com/api.php/provide/vod",
       "detail": "https://jyzyapi.com"
     },
-    "119": {
+    "112": {
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "name": "虎牙|点播"
     },
-    "120": {
+    "113": {
       "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
       "name": "金鹰资源",
       "detail": "https://jinyingzy.com"
+    },
+    "114": {
+      "name": "🎬红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy.com"
+    },
+    "115": {
+      "name": "TV-非凡影视",
+      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "detail": "http://ffzy5.tv"
+    },
+    "116": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "name": "红牛|点播"
+    },
+    "117": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn",
+      "name": "红牛",
+      "detail": "https://hongniuzy.net"
+    },
+    "118": {
+      "api": "https://www.ckzy1.com/api.php/provide/vod",
+      "name": "🔞CK资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "119": {
+      "api": "http://www.feifei67.com/api.php/provide/vod",
+      "name": "🔞成人22",
+      "detail": "",
+      "is_adult": true
+    },
+    "120": {
+      "api": "http://jcspcj8.com/api?ac=list",
+      "name": "🔞熊猫资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "121": {
+      "api": "https://zy.hls.one/api.php/provide/vod",
+      "name": "🔞虾米资源",
+      "detail": "",
+      "is_adult": true
     }
   },
   "custom_category": [
