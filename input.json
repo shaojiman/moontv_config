@@ -599,6 +599,21 @@
     "126": {
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "name": "虎牙|点播"
+    },
+    "127": {
+      "name": "🎬速播资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "detail": "www.subozy.com"
+    },
+    "128": {
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "name": "淘片",
+      "detail": "https://www.taopianzy.com/index.html"
+    },
+    "129": {
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+      "name": "淘片网",
+      "detail": ""
     }
   },
   "custom_category": [
@@ -766,6 +781,31 @@
       "name": "动漫",
       "type": "tv",
       "query": "日本动画"
+    },
+    {
+      "name": "奇幻",
+      "type": "movie",
+      "query": "奇幻"
+    },
+    {
+      "name": "惊悚",
+      "type": "movie",
+      "query": "惊悚"
+    },
+    {
+      "name": "灾难",
+      "type": "movie",
+      "query": "灾难"
+    },
+    {
+      "name": "国产",
+      "type": "tv",
+      "query": "国产剧"
+    },
+    {
+      "name": "纪录",
+      "type": "tv",
+      "query": "纪录片"
     }
   ]
 }
