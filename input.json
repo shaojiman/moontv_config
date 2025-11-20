@@ -516,73 +516,62 @@
       "detail": "https://www.huyaapi.com"
     },
     "109": {
-      "name": "🎬虎牙资源",
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
-      "detail": "https://www.huyaapi.com"
-    },
-    "110": {
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
-      "name": "虎牙",
-      "detail": "https://www.huyaapi.com"
-    },
-    "111": {
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "name": "虎牙|点播"
     },
-    "112": {
+    "110": {
       "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
       "name": "淘片",
       "detail": "https://www.taopianzy.com/index.html"
     },
-    "113": {
+    "111": {
       "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
       "name": "淘片网",
       "detail": ""
     },
-    "114": {
+    "112": {
       "api": "https://www.ckzy1.com/api.php/provide/vod",
       "name": "🔞CK资源",
       "detail": "",
       "is_adult": true
     },
-    "115": {
+    "113": {
       "name": "🎬速播资源",
       "api": "https://subocaiji.com/api.php/provide/vod",
       "detail": "www.subozy.com"
     },
-    "116": {
+    "114": {
       "name": "🎬U酷影视",
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "detail": "https://www.ukuzy.com"
     },
-    "117": {
+    "115": {
       "api": "https://api.ukuapi.com/api.php/provide/vod",
       "name": "U酷资源",
       "detail": "https://api.ukuapi.com"
     },
-    "118": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "http://ffzy5.tv",
-      "is_adult": false
-    },
-    "119": {
+    "116": {
       "name": "旺旺短剧",
       "api": "https://www.wwzy.tv/api.php/provide/vod",
       "detail": "https://www.wwzy.tv"
     },
-    "120": {
+    "117": {
       "api": "https://subocaiji.com/api.php/provide/vod/",
       "name": "速博|点播"
     },
-    "121": {
+    "118": {
       "api": "http://www.madouse.la/api.php/provide/vod/",
       "name": "麻豆视频|AV"
     },
-    "122": {
+    "119": {
       "name": "TV-茶杯狐",
       "api": "http://caihy.zone.id/%E8%8C%B6%E6%9D%AF%E7%8B%90.php?filter=true",
       "detail": ""
+    },
+    "120": {
+      "api": "https://xingba222.com/api.php/provide",
+      "name": "杏吧资源",
+      "detail": "https://sex8zy8.com"
     }
   },
   "custom_category": [
