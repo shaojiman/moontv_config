@@ -495,85 +495,111 @@
       "is_adult": false
     },
     "103": {
-      "api": "https://len.tv/api.php/v1.vod",
-      "name": "冷视TV(普)",
-      "detail": "https://len.tv"
-    },
-    "104": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源"
-    },
-    "105": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视"
-    },
-    "106": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "name": "影视工厂"
-    },
-    "107": {
       "name": "🎬如意资源",
       "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
       "detail": "https://www.ryzyw.com"
     },
-    "108": {
+    "104": {
       "name": "🎬豪华资源",
       "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://www.haohuazy.com"
     },
-    "109": {
+    "105": {
       "name": "🎬百度云zy",
       "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://bdzy1.com"
     },
-    "110": {
+    "106": {
       "api": "http://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源",
       "detail": ""
     },
-    "111": {
+    "107": {
       "name": "🎬建安资源",
       "api": "http://154.219.117.232:9981/jacloudapi.php/provide/vod",
       "detail": "http://154.219.117.232:9981"
     },
-    "112": {
+    "108": {
       "name": "🎬虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "detail": "https://www.huyaapi.com"
     },
-    "113": {
+    "109": {
       "api": "https://caiji.dbzy.tv/api.php/provide/vod/at/josn",
       "name": "豆瓣|点播"
     },
-    "114": {
-      "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/json",
-      "name": "极速云",
-      "is_adult": false
-    },
-    "115": {
+    "110": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/josn/",
       "name": "红牛",
       "detail": "https://www.hnjiexi.com/m3u8/?url=",
       "is_adult": false
     },
-    "116": {
+    "111": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
       "name": "红牛云",
       "is_adult": false
     },
-    "117": {
+    "112": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/",
       "name": "新浪",
       "detail": "https://www.xinlangjiexi.com/m3u8/?url=",
       "is_adult": false
     },
-    "118": {
+    "113": {
       "name": "火花官采收费影视资源站采集接口",
       "api": "http://cj.huohua.vip/api.php/provide/vod"
     },
-    "119": {
+    "114": {
       "name": "OK资源采集网采集接口",
       "api": "http://api.okzyw.net/api.php/provide/vod"
+    },
+    "115": {
+      "api": "https://dbzy.tv/api.php/provide/vod",
+      "name": "豆瓣资源"
+    },
+    "116": {
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "name": "优质资源"
+    },
+    "117": {
+      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+      "name": "优质资源库1080zyk6.com高清"
+    },
+    "118": {
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "name": "量子",
+      "detail": "https://cj.lzcaiji.com"
+    },
+    "119": {
+      "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+      "name": "1080资源",
+      "detail": "https://1080zyk.com"
+    },
+    "120": {
+      "name": "豆瓣资源采集站采集接口大全",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod"
+    },
+    "121": {
+      "api": "https://api.okzyw.net/api.php/provide/vod",
+      "name": "TV-OK资源",
+      "detail": "https://okzyw.cc/index.php/label/help.html"
+    },
+    "122": {
+      "api": "https://api.yzzy-api.com/inc/apijson.php/provide/vod",
+      "name": "优质资源库",
+      "detail": "yzzy.tv"
+    },
+    "123": {
+      "api": "http://us.199301.xyz:4000",
+      "name": "香蕉"
+    },
+    "124": {
+      "api": "https://vod.199301.xyz",
+      "name": "test2"
+    },
+    "125": {
+      "api": "https://vod302.199301.xyz",
+      "name": "test3"
     }
   },
   "custom_category": [
@@ -718,11 +744,6 @@
       "query": "纪录片"
     },
     {
-      "name": "治愈",
-      "type": "movie",
-      "query": "治愈"
-    },
-    {
       "name": "奇幻",
       "type": "movie",
       "query": "奇幻"
@@ -756,6 +777,11 @@
       "name": "纪录",
       "type": "tv",
       "query": "纪录片"
+    },
+    {
+      "name": "治愈",
+      "type": "movie",
+      "query": "治愈"
     },
     {
       "name": "西部",
