@@ -614,50 +614,71 @@
       "detail": "https://bdzy1.com"
     },
     "130": {
-      "name": "🎬山海资源",
-      "api": "https://zy.sh0o.cn/api.php/provide/vod",
-      "detail": "https://zy.sh0o.cn"
-    },
-    "131": {
       "api": "https://cj.yayazy.net/api.php/provide/vod",
       "name": "丫丫点播",
       "detail": "https://cj.yayazy.net",
       "is_adult": false
     },
-    "132": {
+    "131": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
       "name": "魔都资源",
       "detail": "https://moduzy.com"
     },
-    "133": {
+    "132": {
       "api": "https://corsapi.199301.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源",
       "detail": "https://www.ryzyw.com"
     },
-    "134": {
-      "api": "https://www.qiqidys.com/api.php/provide/vod/",
-      "name": "七七影视",
-      "is_adult": false
-    },
-    "135": {
+    "133": {
       "_comment": "无搜索结果",
       "name": "🎬金蝉影视",
       "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
       "detail": "https://zy.jinchancaiji.com"
     },
-    "136": {
+    "134": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod/",
       "name": "TV-墨斗资源"
     },
-    "137": {
+    "135": {
       "name": "富二代资源",
       "api": "http://f2dcj6.com/sapi",
       "detail": ""
     },
-    "138": {
+    "136": {
       "name": "Ikun资源（备用）",
       "api": "https://www.ikunzy.com/api.php/provide/vod",
       "detail": "https://www.ikunzy.com/"
+    },
+    "137": {
+      "api": "https://www.ckzy1.com/api.php/provide/vod",
+      "name": "🔞CK资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "138": {
+      "api": "http://zmcj88.com/api?ac=list",
+      "name": "🔞泡芙资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "139": {
+      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
+      "name": "🔞小美眉",
+      "detail": "",
+      "is_adult": true
+    },
+    "140": {
+      "name": "OK资源采集网采集接口",
+      "api": "http://api.okzyw.net/api.php/provide/vod"
+    },
+    "141": {
+      "name": "金蝉官采影视采集站采集接口",
+      "api": "http://zy.jinchancaiji.com/api.php/provide/vod"
+    },
+    "142": {
+      "name": "雨哥哥资源",
+      "api": "http://cj.baozi66.top:66/api.php/provide/vod",
+      "detail": "http://cj.baozi66.top:66"
     }
   },
   "custom_category": [
