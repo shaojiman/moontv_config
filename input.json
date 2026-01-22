@@ -585,100 +585,47 @@
       "detail": "https://hhzyapi.com"
     },
     "124": {
-      "api": "http://us.199301.xyz:4000",
-      "name": "香蕉"
-    },
-    "125": {
       "name": "🎬豆瓣资源",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "detail": "https://dbzy.tv"
     },
-    "126": {
-      "name": "🎬魔都资源",
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "detail": "https://www.moduzy.net"
-    },
-    "127": {
-      "name": "🎬如意资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
-      "detail": "https://www.ryzyw.com"
-    },
-    "128": {
-      "name": "🎬豪华资源",
-      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
-      "detail": "https://www.haohuazy.com"
-    },
-    "129": {
-      "name": "🎬百度云zy",
-      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
-      "detail": "https://bdzy1.com"
-    },
-    "130": {
+    "125": {
       "api": "https://cj.yayazy.net/api.php/provide/vod",
       "name": "丫丫点播",
       "detail": "https://cj.yayazy.net",
       "is_adult": false
     },
-    "131": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
-      "name": "魔都资源",
-      "detail": "https://moduzy.com"
-    },
-    "132": {
-      "api": "https://corsapi.199301.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源",
-      "detail": "https://www.ryzyw.com"
-    },
-    "133": {
-      "_comment": "无搜索结果",
-      "name": "🎬金蝉影视",
-      "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
-      "detail": "https://zy.jinchancaiji.com"
-    },
-    "134": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-      "name": "TV-墨斗资源"
-    },
-    "135": {
-      "name": "富二代资源",
-      "api": "http://f2dcj6.com/sapi",
-      "detail": ""
-    },
-    "136": {
+    "126": {
       "name": "Ikun资源（备用）",
       "api": "https://www.ikunzy.com/api.php/provide/vod",
       "detail": "https://www.ikunzy.com/"
     },
-    "137": {
+    "127": {
       "api": "https://www.ckzy1.com/api.php/provide/vod",
       "name": "🔞CK资源",
       "detail": "",
       "is_adult": true
     },
-    "138": {
-      "api": "http://zmcj88.com/api?ac=list",
-      "name": "🔞泡芙资源",
-      "detail": "",
-      "is_adult": true
-    },
-    "139": {
-      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
-      "name": "🔞小美眉",
-      "detail": "",
-      "is_adult": true
-    },
-    "140": {
+    "128": {
       "name": "OK资源采集网采集接口",
       "api": "http://api.okzyw.net/api.php/provide/vod"
     },
-    "141": {
-      "name": "金蝉官采影视采集站采集接口",
-      "api": "http://zy.jinchancaiji.com/api.php/provide/vod"
+    "129": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视",
+      "is_adult": false
     },
-    "142": {
-      "name": "雨哥哥资源",
-      "api": "http://cj.baozi66.top:66/api.php/provide/vod",
-      "detail": "http://cj.baozi66.top:66"
+    "130": {
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod/at/josn",
+      "name": "豆瓣|点播"
+    },
+    "131": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "name": "牛牛|点播"
+    },
+    "132": {
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "name": "丫丫|点播"
     }
   },
   "custom_category": [
@@ -823,11 +770,6 @@
       "query": "纪录片"
     },
     {
-      "name": "治愈",
-      "type": "movie",
-      "query": "治愈"
-    },
-    {
       "name": "奇幻",
       "type": "movie",
       "query": "奇幻"
@@ -861,6 +803,11 @@
       "name": "纪录",
       "type": "tv",
       "query": "纪录片"
+    },
+    {
+      "name": "治愈",
+      "type": "movie",
+      "query": "治愈"
     }
   ]
 }
