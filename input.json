@@ -591,6 +591,29 @@
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "name": "茅台资源",
       "detail": ""
+    },
+    "126": {
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "name": "优质资源"
+    },
+    "127": {
+      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+      "name": "优质资源库1080zyk6.com高清"
+    },
+    "128": {
+      "name": "TV-豆瓣资源",
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+      "detail": "https://caiji.dbzy.tv"
+    },
+    "129": {
+      "api": "https://api.maoyanapi.top/api.php/provide",
+      "name": "猫眼资源",
+      "detail": "https://www.maoyanzy.com"
+    },
+    "130": {
+      "api": "https://api.okzyw.net/api.php/provide/vod",
+      "name": "TV-OK资源",
+      "detail": "https://okzyw.cc/index.php/label/help.html"
     }
   },
   "custom_category": [
