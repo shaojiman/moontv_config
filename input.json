@@ -608,10 +608,24 @@
       "is_adult": true
     },
     "130": {
-      "api": "http://jcspcj8.com/api?ac=list",
-      "name": "🔞熊猫资源",
-      "detail": "",
-      "is_adult": true
+      "name": "🎬如意资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": "https://www.ryzyw.com"
+    },
+    "131": {
+      "name": "🎬豪华资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://www.haohuazy.com"
+    },
+    "132": {
+      "name": "🎬百度云zy",
+      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "detail": "https://bdzy1.com"
+    },
+    "133": {
+      "name": "🎬艾旦影视",
+      "api": "https://pz.168188.dpdns.org/?url=https://lovedan.net/api.php/provide/vod",
+      "detail": "https://lovedan.net"
     }
   },
   "custom_category": [
@@ -759,41 +773,6 @@
       "name": "治愈",
       "type": "movie",
       "query": "治愈"
-    },
-    {
-      "name": "奇幻",
-      "type": "movie",
-      "query": "奇幻"
-    },
-    {
-      "name": "犯罪",
-      "type": "movie",
-      "query": "犯罪"
-    },
-    {
-      "name": "惊悚",
-      "type": "movie",
-      "query": "惊悚"
-    },
-    {
-      "name": "灾难",
-      "type": "movie",
-      "query": "灾难"
-    },
-    {
-      "name": "战争",
-      "type": "movie",
-      "query": "战争"
-    },
-    {
-      "name": "国产",
-      "type": "tv",
-      "query": "国产剧"
-    },
-    {
-      "name": "纪录",
-      "type": "tv",
-      "query": "纪录片"
     }
   ]
 }
