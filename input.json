@@ -634,6 +634,10 @@
     "135": {
       "name": "OK资源采集网采集接口",
       "api": "http://api.okzyw.net/api.php/provide/vod"
+    },
+    "136": {
+      "name": "无线资源网采集接口",
+      "api": "https://api.wuxianzy.net/api.php/provide/vod"
     }
   },
   "custom_category": [
