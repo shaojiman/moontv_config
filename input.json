@@ -563,6 +563,36 @@
     "122": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
+    },
+    "123": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"
+    },
+    "124": {
+      "name": "🎬如意资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": "https://www.ryzyw.com"
+    },
+    "125": {
+      "name": "雨哥哥资源",
+      "api": "http://cj.baozi66.top:66/api.php/provide/vod",
+      "detail": "http://cj.baozi66.top:66"
+    },
+    "126": {
+      "api": "https://api.zuiseapi.com/api.php/provide/vod/?ac=list",
+      "name": "最色资源",
+      "detail": "https://zuisezy.com"
+    },
+    "127": {
+      "_comment": "无搜索结果",
+      "name": "iTV-金蝉影视",
+      "api": "https://zy.jinchancaiji.com/api.php/provide/vod",
+      "detail": "https://zy.jinchancaiji.com"
+    },
+    "128": {
+      "name": "🔞最色资源",
+      "api": "https://api.zuiseapi.com/api.php/provide/vod",
+      "detail": "https://zuisezy.com"
     }
   },
   "custom_category": [
