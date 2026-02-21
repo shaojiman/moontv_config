@@ -526,6 +526,60 @@
     "114": {
       "name": "无线资源网采集接口",
       "api": "https://api.wuxianzy.net/api.php/provide/vod"
+    },
+    "115": {
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "name": "如意资源"
+    },
+    "116": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视"
+    },
+    "117": {
+      "name": "🎬如意资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": "https://www.ryzyw.com"
+    },
+    "118": {
+      "name": "🎬豪华资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://www.haohuazy.com"
+    },
+    "119": {
+      "name": "🎬百度云zy",
+      "api": "https://pz.168188.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "detail": "https://bdzy1.com"
+    },
+    "120": {
+      "name": "🎬艾旦影视",
+      "api": "https://pz.168188.dpdns.org/?url=https://lovedan.net/api.php/provide/vod",
+      "detail": "https://lovedan.net"
+    },
+    "121": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "name": "茅台资源",
+      "detail": ""
+    },
+    "122": {
+      "name": "无水印资源网采集接口",
+      "api": "https://api.wsyzy.net/api.php/provide/vod"
+    },
+    "123": {
+      "name": "789官采资源站采集接口",
+      "api": "https://www.caiji.cyou/api.php/provide/vod"
+    },
+    "124": {
+      "name": "OK资源采集网采集接口",
+      "api": "http://api.okzyw.net/api.php/provide/vod"
+    },
+    "125": {
+      "name": "金蝉官采影视采集站采集接口",
+      "api": "http://zy.jinchancaiji.com/api.php/provide/vod"
+    },
+    "126": {
+      "name": "Ikun资源（备用）",
+      "api": "https://www.ikunzy.com/api.php/provide/vod",
+      "detail": "https://www.ikunzy.com/"
     }
   },
   "custom_category": [
