@@ -550,6 +550,46 @@
     "120": {
       "name": "无线资源网采集接口",
       "api": "https://api.wuxianzy.net/api.php/provide/vod"
+    },
+    "121": {
+      "name": "🎬如意资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": "https://www.ryzyw.com"
+    },
+    "122": {
+      "api": "http://wmcj8.com/inc/sapi.php",
+      "name": "🔞成人07",
+      "detail": "",
+      "is_adult": true
+    },
+    "123": {
+      "api": "http://www.feifei67.com/api.php/provide/vod",
+      "name": "🔞成人22",
+      "detail": "",
+      "is_adult": true
+    },
+    "124": {
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
+      "name": "🔞豪华资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "125": {
+      "api": "http://zmcj88.com/api?ac=list",
+      "name": "🔞泡芙资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "126": {
+      "api": "http://jcspcj8.com/api?ac=list",
+      "name": "🔞熊猫资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "127": {
+      "name": "Ikun资源（备用）",
+      "api": "https://www.ikunzy.com/api.php/provide/vod",
+      "detail": "https://www.ikunzy.com/"
     }
   },
   "custom_category": [
@@ -697,41 +737,6 @@
       "name": "治愈",
       "type": "movie",
       "query": "治愈"
-    },
-    {
-      "name": "奇幻",
-      "type": "movie",
-      "query": "奇幻"
-    },
-    {
-      "name": "犯罪",
-      "type": "movie",
-      "query": "犯罪"
-    },
-    {
-      "name": "惊悚",
-      "type": "movie",
-      "query": "惊悚"
-    },
-    {
-      "name": "灾难",
-      "type": "movie",
-      "query": "灾难"
-    },
-    {
-      "name": "战争",
-      "type": "movie",
-      "query": "战争"
-    },
-    {
-      "name": "国产",
-      "type": "tv",
-      "query": "国产剧"
-    },
-    {
-      "name": "纪录",
-      "type": "tv",
-      "query": "纪录片"
     }
   ]
 }
