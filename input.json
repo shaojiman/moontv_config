@@ -469,42 +469,83 @@
       "detail": "https://bdzy1.com"
     },
     "102": {
-      "name": "🎬艾旦影视",
-      "api": "https://pz.168188.dpdns.org/?url=https://lovedan.net/api.php/provide/vod",
-      "detail": "https://lovedan.net"
-    },
-    "103": {
       "name": "789官采资源站采集接口",
       "api": "https://www.caiji.cyou/api.php/provide/vod"
     },
-    "104": {
-      "name": "金蝉官采影视采集站采集接口",
-      "api": "http://zy.jinchancaiji.com/api.php/provide/vod"
-    },
-    "105": {
+    "103": {
       "name": "麒麟资源站全站采集接口",
       "api": "http://www.qilinzyz.com/api.php/provide/vod"
     },
-    "106": {
+    "104": {
       "api": "https://api.maoyanapi.top/api.php/provide",
       "name": "猫眼资源",
       "detail": "https://www.maoyanzy.com"
     },
-    "107": {
+    "105": {
       "api": "https://xingba222.com/api.php/provide",
       "name": "杏吧资源",
       "detail": "https://sex8zy8.com"
     },
-    "108": {
+    "106": {
       "api": "http://sdzyapi.com/api.php/provide/vod",
       "name": "闪电",
       "detail": "http://sdzyapi.com"
     },
-    "109": {
+    "107": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
       "name": "猫眼资源",
       "detail": "https://api.maoyanapi.top",
       "is_adult": false
+    },
+    "108": {
+      "name": "🎬茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://mtzy.me"
+    },
+    "109": {
+      "api": "https://360zy.com/api.php/provide/vod",
+      "name": "360资源"
+    },
+    "110": {
+      "api": "https://api.1080zyku.com/inc/apijson.php/",
+      "name": "1080资源",
+      "detail": "https://api.1080zyku.com"
+    },
+    "111": {
+      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "name": "优质资源"
+    },
+    "112": {
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "name": "如意资源"
+    },
+    "113": {
+      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "name": "TV-如意资源"
+    },
+    "114": {
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+      "name": "TV-豆瓣资源",
+      "detail": "https://caiji.dbzy.tv"
+    },
+    "115": {
+      "name": "雨哥哥资源",
+      "api": "http://cj.baozi66.top:66/api.php/provide/vod",
+      "detail": "http://cj.baozi66.top:66"
+    },
+    "116": {
+      "api": "https://api.yzzy-api.com/inc/api_mac10.php",
+      "name": "1080资源",
+      "detail": "https://1080zyk.com"
+    },
+    "117": {
+      "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
+      "name": "优质资源库1080zyk6.com高清"
+    },
+    "118": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "name": "茅台资源",
+      "detail": ""
     }
   },
   "custom_category": [
