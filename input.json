@@ -510,6 +510,83 @@
     "109": {
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "name": "卧龙|点播"
+    },
+    "110": {
+      "name": "🎬旺旺资源",
+      "api": "https://api.wwzy.tv/api.php/provide/vod",
+      "detail": "https://api.wwzy.tv"
+    },
+    "111": {
+      "name": "🎬如意资源",
+      "api": "https://pz.168188.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": "https://www.ryzyw.com"
+    },
+    "112": {
+      "api": "https://wwzy.tv/api.php/provide/vod",
+      "name": "旺旺短剧"
+    },
+    "113": {
+      "_comment": "暂不支持搜索",
+      "name": "鸭鸭资源",
+      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "detail": "https://yayazy3.com",
+      "isAdult": false
+    },
+    "114": {
+      "_comment": "暂不支持搜索",
+      "name": "索尼资源",
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "detail": "https://suonizy.net",
+      "isAdult": false
+    },
+    "115": {
+      "_comment": "暂不支持搜索",
+      "name": "闪电资源",
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "detail": "https://shandianzy.com",
+      "isAdult": false
+    },
+    "116": {
+      "api": "https://api.wwzy.tv/api.php/provide/vod/",
+      "name": "旺旺|点播"
+    },
+    "117": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "name": "牛牛|点播"
+    },
+    "118": {
+      "api": "https://cj.yayazy.net/api.php/provide/vod/",
+      "name": "丫丫|点播"
+    },
+    "119": {
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "name": "索尼|点播"
+    },
+    "120": {
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "name": "闪电|点播"
+    },
+    "121": {
+      "name": "OK资源采集网采集接口",
+      "api": "http://api.okzyw.net/api.php/provide/vod"
+    },
+    "122": {
+      "name": "牛牛资源网采集接口",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod"
+    },
+    "123": {
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "name": "閃電资源",
+      "detail": "https://sdzyapi.com"
+    },
+    "124": {
+      "api": "http://sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源"
+    },
+    "125": {
+      "name": "旺旺短剧",
+      "api": "https://www.wwzy.tv/api.php/provide/vod",
+      "detail": "https://www.wwzy.tv"
     }
   },
   "custom_category": [
@@ -654,14 +731,34 @@
       "query": "纪录片"
     },
     {
-      "name": "奇幻",
-      "type": "movie",
-      "query": "奇幻"
-    },
-    {
       "name": "犯罪",
       "type": "movie",
       "query": "犯罪"
+    },
+    {
+      "name": "战争",
+      "type": "movie",
+      "query": "战争"
+    },
+    {
+      "name": "西部",
+      "type": "movie",
+      "query": "西部"
+    },
+    {
+      "name": "治愈",
+      "type": "movie",
+      "query": "治愈"
+    },
+    {
+      "name": "动漫",
+      "type": "tv",
+      "query": "日本动画"
+    },
+    {
+      "name": "奇幻",
+      "type": "movie",
+      "query": "奇幻"
     },
     {
       "name": "惊悚",
@@ -674,11 +771,6 @@
       "query": "灾难"
     },
     {
-      "name": "战争",
-      "type": "movie",
-      "query": "战争"
-    },
-    {
       "name": "国产",
       "type": "tv",
       "query": "国产剧"
@@ -687,11 +779,6 @@
       "name": "纪录",
       "type": "tv",
       "query": "纪录片"
-    },
-    {
-      "name": "治愈",
-      "type": "movie",
-      "query": "治愈"
     }
   ]
 }
