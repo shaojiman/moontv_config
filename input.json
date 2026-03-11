@@ -731,6 +731,11 @@
       "query": "纪录片"
     },
     {
+      "name": "治愈",
+      "type": "movie",
+      "query": "治愈"
+    },
+    {
       "name": "犯罪",
       "type": "movie",
       "query": "犯罪"
@@ -744,11 +749,6 @@
       "name": "西部",
       "type": "movie",
       "query": "西部"
-    },
-    {
-      "name": "治愈",
-      "type": "movie",
-      "query": "治愈"
     },
     {
       "name": "动漫",
