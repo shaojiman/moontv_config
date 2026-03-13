@@ -555,6 +555,48 @@
       "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
       "name": "索尼",
       "detail": "https://suonizy.com"
+    },
+    "119": {
+      "name": "🎬卧龙资源",
+      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "detail": "https://wolongzyw.com"
+    },
+    "120": {
+      "name": "🎬魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "detail": "https://www.moduzy.net"
+    },
+    "121": {
+      "name": "🎬魔都动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "detail": "https://caiji.moduapi.cc"
+    },
+    "122": {
+      "api": "https://360zy.com/api.php/provide/vod",
+      "name": "360资源"
+    },
+    "123": {
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "name": "卧龙|点播"
+    },
+    "124": {
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+      "name": "魔都|点播"
+    },
+    "125": {
+      "name": "TV-卧龙点播",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "detail": "https://collect.wolongzyw.com"
+    },
+    "126": {
+      "name": "TV-卧龙资源",
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "detail": ""
+    },
+    "127": {
+      "name": "魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+      "detail": "https://moduzy.com"
     }
   },
   "custom_category": [
