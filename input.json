@@ -577,6 +577,76 @@
       "name": "雨哥哥资源",
       "api": "http://cj.baozi66.top:66/api.php/provide/vod",
       "detail": "http://cj.baozi66.top:66"
+    },
+    "121": {
+      "name": "🎬最大资源",
+      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "detail": "https://zuida.xyz"
+    },
+    "122": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "CK资源",
+      "detail": "https://ckzy.me"
+    },
+    "123": {
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "name": "閃電资源",
+      "detail": "https://sdzyapi.com"
+    },
+    "124": {
+      "name": "淫水机资源",
+      "api": "https://www.xrbsp.com/api/json.php",
+      "detail": "https://www.xrbsp.com"
+    },
+    "125": {
+      "name": "黄AV资源",
+      "api": "https://www.pgxdy.com/api/json.php",
+      "detail": "https://www.pgxdy.com"
+    },
+    "126": {
+      "api": "https://www.ckzy1.com/api.php/provide/vod",
+      "name": "🔞CK资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "127": {
+      "api": "https://maoyanzy.com/api.php/provide/vod",
+      "name": "猫眼资源",
+      "detail": "",
+      "is_adult": false
+    },
+    "128": {
+      "api": "http://www.feifei67.com/api.php/provide/vod",
+      "name": "🔞成人22",
+      "detail": "",
+      "is_adult": true
+    },
+    "129": {
+      "api": "https://www.kxgav.com/api/xml.php",
+      "name": "🔞成人44",
+      "detail": "",
+      "is_adult": true
+    },
+    "130": {
+      "api": "http://zmcj88.com/api?ac=list",
+      "name": "🔞泡芙资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "131": {
+      "api": "http://jcspcj8.com/api?ac=list",
+      "name": "🔞熊猫资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "132": {
+      "name": "OK资源采集网采集接口",
+      "api": "http://api.okzyw.net/api.php/provide/vod"
+    },
+    "133": {
+      "api": "http://ffzy1.tv/api.php/provide/vod",
+      "name": "非凡线路1",
+      "detail": ""
     }
   },
   "custom_category": [
@@ -721,14 +791,39 @@
       "query": "纪录片"
     },
     {
+      "name": "奇幻",
+      "type": "movie",
+      "query": "奇幻"
+    },
+    {
       "name": "犯罪",
       "type": "movie",
       "query": "犯罪"
     },
     {
+      "name": "惊悚",
+      "type": "movie",
+      "query": "惊悚"
+    },
+    {
+      "name": "灾难",
+      "type": "movie",
+      "query": "灾难"
+    },
+    {
       "name": "战争",
       "type": "movie",
       "query": "战争"
+    },
+    {
+      "name": "国产",
+      "type": "tv",
+      "query": "国产剧"
+    },
+    {
+      "name": "纪录",
+      "type": "tv",
+      "query": "纪录片"
     },
     {
       "name": "西部",
