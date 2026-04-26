@@ -596,6 +596,27 @@
       "api": "http://sdzyapi.com/api.php/provide/vod",
       "name": "闪电",
       "detail": "http://sdzyapi.com"
+    },
+    "125": {
+      "name": "CK资源采集接口",
+      "api": "https://ckzy.me/api.php/provide/vod"
+    },
+    "126": {
+      "api": "https://www.kxgav.com/api/json.php",
+      "name": "AV-白嫖资源",
+      "detail": "https://www.kxgav.com",
+      "is_**": true
+    },
+    "127": {
+      "name": "雨哥哥资源",
+      "api": "http://cj.baozi66.top:66/api.php/provide/vod",
+      "detail": "http://cj.baozi66.top:66"
+    },
+    "128": {
+      "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+      "name": "CK资源",
+      "detail": "https://www.ckzy1.com",
+      "adult": true
     }
   },
   "custom_category": [
